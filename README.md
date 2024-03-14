@@ -27,7 +27,7 @@ This project is made available under the MIT License. For details, see the `LICE
 Thanks to the Dynamics 365 Business Central community for the ongoing discussions and insights that drive innovation and improvements in our solutions.
 
 ## Learn More
-For an in-depth exploration of how this solution was developed and its practical applications, check out our detailed guide: [Extending Intercompany Synchronization in Business Central: A Comprehensive Guide](#).
+For an in-depth exploration of how this solution was developed and its practical applications, check out our detailed guide: [Extending Intercompany Synchronization in Business Central: A Comprehensive Guide](https://ivansingleton.dev/extending-intercompany-synchronization-in-business-central-intercompany-transactions/).
 
 ## Additional Notes
 As part of our commitment to enhancing Business Central's intercompany functionalities, this solution opens new possibilities for data synchronization and operational optimization. While initially focused on purchase-to-sales flow, its extendable architecture paves the way for reverse and other complex transaction patterns in the future. Stay updated and get involved by visiting our [GitHub repository](#).
