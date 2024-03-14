@@ -1,0 +1,32 @@
+{
+  "id": "c1326135-046f-4dbc-a11a-d50f76b9729d",
+  "name": "InterCompanyVariantSync",
+  "publisher": "ivansingleton.dev",
+  "version": "1.0.0.0",
+  "brief": "Enhances intercompany transactions in Business Central by ensuring seamless variant code synchronization between entities.",
+  "description": "This extension solves a common challenge in Dynamics 365 Business Central by accurately synchronizing variant codes across intercompany transactions, specifically from purchase orders in one company to sales orders in another. It includes custom event subscribers, table extensions, and page modifications to facilitate this process, improving operational efficiency and data integrity. Designed to be extendible, it currently focuses on purchase-to-sales document flow with the potential for reverse synchronization.",
+  "privacyStatement": "",
+  "EULA": "https://ivansingleton.dev/",
+  "help": "https://ivansingleton.dev/",
+  "url": "https://ivansingleton.dev/",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 52100,
+      "to": 52149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
